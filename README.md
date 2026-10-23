@@ -1,4 +1,4 @@
-# COM7014 Security Log Monitoring Proof of Concept
+# Security Log Monitoring Proof of Concept
 
 This is a simple Python proof-of-concept for synthetic security log monitoring.
 
