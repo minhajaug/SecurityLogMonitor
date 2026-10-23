@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.test-tmp/
+
+# Runtime output
+data/
+
+# Personal academic and packaging material
+.final-work/
+final-submission/
+supervisor-review/
+
+# Keep only non-personal technical evidence from reports
+reports/*
+!reports/requirements-to-test-mapping.md
+!reports/test-results-20261019-230515.md
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
